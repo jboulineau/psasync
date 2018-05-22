@@ -1,6 +1,6 @@
-### NOTE: This is to rescue the psasync project from it's original location at [CodePlex](https://archive.codeplex.com/?p=psasync), now archived. It was created for PowerShell v2, but probably still works.
+### NOTE: This is to rescue the psasync project from it's original location at [CodePlex](https://archive.codeplex.com/?p=psasync), now archived. It was created for PowerShell v2, but probably still works. More documentation can be found in this [series of blog posts](https://jboulineau.github.io/blog/powershell/background_jobs).
 
-psasync is a PowerShell module that makes executing multi-threaded PowerShell easier. It provides significant performance benefits over the standard PoSH job system.
+psasync is a PowerShell module that makes executing multi-threaded PowerShell easier.  It provides significant performance benefits over the standard PoSH job system. More information can be found in [this series of blog posts](.
 
 The psasync module contains the following functions:  
 ### Get-RunspacePool
