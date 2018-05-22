@@ -51,4 +51,4 @@ Receive-AsyncStatus -Pipelines $AsyncPipelines
 Receive-AsyncResults -Pipelines $AsyncPipelines -ShowProgress
 ```
 
-You’ll notice there is nothing particularly complex here in the code. But, all the warnings from the runspace post apply. Multi-threading is awesome and powerful, but use it with care. 
+You’ll notice there is nothing particularly complex here in the code. But, all the warnings from the [runspace post](https://jboulineau.github.io/blog/powershell/multi_threading_with_runspaces) apply. Multi-threading is awesome and powerful, but use it with care. 
